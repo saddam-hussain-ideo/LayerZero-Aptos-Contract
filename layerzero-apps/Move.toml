@@ -1,0 +1,9 @@
+[package]
+name = "layerzero_apps"
+version = "0.0.1"
+
+[addresses]
+layerzero_apps = "0x54ad3d30af77b60d939ae356e6606de9a4da67583f02b962d2d3f2e481484e90"
+
+[dependencies]
+layerzero = { local = "../layerzero" }
